@@ -1,5 +1,7 @@
 {
-	name: 'jTyping',
-	homepage: 'https://github.com/brabia/jTyping',
-	version: '0.0.1',
+	"name": "jTyping",
+	"version": "0.0.1",
+	"homepage": "https://github.com/brabia/jTyping",
+	"dependencies": {
+	}
 }
