@@ -1,7 +1,10 @@
 {
 	"name": "jTyping",
-	"version": "0.0.1",
-	"homepage": "https://github.com/brabia/jTyping",
-	"dependencies": {
-	}
+	"description": "Physics-like animations for pretty particles",
+	"main": [
+		"js/jTyping.js",
+		"css/jTyping.css"
+	],
+	"authors": [
+	]
 }
